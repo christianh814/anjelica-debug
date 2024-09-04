@@ -3,7 +3,7 @@
 	"image": "quay.io/akuity/argo-cd-learning-assets/akuity-devcontainer:0.1.0",
 
 	"features": {
-		"ghcr.io/devcontainers/features/docker-in-docker:2": {
+		"ghcr.io/devcontainers/features/docker-in-docker:2.10.2": {
 			"enableNonRootDocker": "true",
 			"moby": "true"
 		}
